@@ -10,7 +10,6 @@ This project is a Spotify clone built using HTML, CSS, and JavaScript. The appli
 - **Music Player Controls**: Includes play/pause, next, previous, seek, and volume adjustment functionalities.
 - **Track Information Display**: Shows track name, artist, and album art.
 - **Playlist Support**: Allows users to navigate through a list of songs.
-- **Animated UI**: Provides smooth transitions and animations for a dynamic user experience.
 
 ## Technologies Used
 
